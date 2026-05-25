@@ -214,6 +214,14 @@
 	name = "Half Up (Alt Bangs)"
 	icon_state = "hair_halfupalt"
 
+/datum/sprite_accessory/hair/halfshort
+	name = "Half Up Short"
+	icon_state = "hair_halfshort"
+
+/datum/sprite_accessory/hair/halfshortalt
+	name = "Half Up Short (Alt Bangs)"
+	icon_state = "hair_halfshortalt"
+
 /datum/sprite_accessory/hair/harley
 	name = "Harley"
 	icon_state = "hair_harley"
@@ -285,6 +293,10 @@
 /datum/sprite_accessory/hair/manime
 	name = "Manime"
 	icon_state = "hair_manime"
+
+/datum/sprite_accessory/hair/messy
+	name = "Messy"
+	icon_state = "hair_messy"
 
 /datum/sprite_accessory/hair/messychop
 	name = "Messy Chop"
@@ -478,6 +490,10 @@
 	name = "Stride"
 	icon_state = "hair_stride"
 
+/datum/sprite_accessory/hair/sweptback
+	name = "Swept Back"
+	icon_state = "hair_sweptback"
+
 /datum/sprite_accessory/hair/thinning
 	name = "Thinning"
 	icon_state = "hair_thinning"
@@ -561,6 +577,10 @@
 /datum/sprite_accessory/hair/wavyalt
 	name = "Wavy (Alt Bangs)"
 	icon_state = "hair_wavyalt"
+
+/datum/sprite_accessory/hair/wavyshort
+	name = "Wavy (Short)"
+	icon_state = "hair_wavyshort"
 
 /*
 /////////////////////////////////////
