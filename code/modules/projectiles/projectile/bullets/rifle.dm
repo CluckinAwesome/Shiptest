@@ -127,3 +127,12 @@
 	armour_penetration = 10
 	speed = BULLET_SPEED_RIFLE
 	bullet_identifier = "medium bullet"
+
+// Pulse Round
+
+/obj/projectile/bullet/pulse_round
+	name = "Pulse round"
+	damage = 25
+	armour_penetration = 35
+	speed = BULLET_SPEED_RIFLE
+	bullet_identifier = "medium bullet"

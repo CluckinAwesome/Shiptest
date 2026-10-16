@@ -129,3 +129,13 @@
 	caliber = ".299 caseless"
 	projectile_type = /obj/projectile/bullet/c299
 	stack_size = 15
+
+//Pulse round
+
+/obj/item/ammo_casing/caseless/pulse_round
+	name = "Liquid Energy casing"
+	desc = "A liquid energy casing."
+	icon_state = "liquidenergy"
+	caliber = "pulse round"
+	projectile_type = /obj/projectile/bullet/pulse_round
+	stack_size = 15
